@@ -5,7 +5,7 @@
     .kedi320{
         display: block;
         /* border: 1px solid red; */
-        width: 100%;
+        width: 320px;
         height: 950px;
         background: rgb(210, 207, 207);
     }
