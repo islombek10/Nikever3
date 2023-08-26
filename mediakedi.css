@@ -101,13 +101,13 @@
     }
     .section__top{
         /* border: 1px solid rgb(6, 8, 136); */
-        width: 319px;
+        width: 320px;
         height: 570px;
     
     }
     .section__bottom{
         /* border: 1px solid green; */
-        width: 319px;
+        width: 320px;
         height: 300px;
     }
     .section__top h5{
@@ -115,7 +115,10 @@
         margin-top: 10px;
         font-weight: 400;
         margin-left: 100px;
-        color: rgb(194, 13, 13)
+        color: rgb(194, 13, 13);
+        border: 1px solid red;
+        width: 150px;
+        height: 80px;
     }
     .section__top p{
         font-size: 9px;
