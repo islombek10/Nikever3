@@ -5,7 +5,7 @@
     .nike320{
         display: block;
         /* border: 1px solid red; */
-        width: 320px;
+        width: 100%;
        min-height: 700px;
     }
     *{
