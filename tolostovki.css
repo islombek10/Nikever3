@@ -1,3 +1,11 @@
+.tolostovki{
+    display: block;
+}
+.tolostovki320{
+    display: none;
+}
+
+
 *{
     margin: 0;
     list-style: none;

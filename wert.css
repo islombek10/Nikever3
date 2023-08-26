@@ -1,5 +1,9 @@
-
-
+.nike{
+    display: block;
+}
+.nike320{
+    display: none;
+}
 *{
     margin: 0;
     list-style: none;

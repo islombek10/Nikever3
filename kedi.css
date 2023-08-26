@@ -1,3 +1,9 @@
+.kedi{
+    display: block;
+}
+.kedi320{
+    display: none;
+}
 *{
     margin: 0;
     list-style: none;
@@ -210,4 +216,4 @@ font-size: 25px;
 }
 .footer__top a:hover{
     color: red;
-}
+} 
