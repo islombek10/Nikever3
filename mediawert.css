@@ -1,10 +1,10 @@
-@media(max-width: 320px) {
+@media(max-width: 475px) {
     .nike{
         display: none;
     }
     .nike320{
         display: block;
-        /* border: 1px solid red; */
+        border: 1px solid red;
         width: 100%;
        min-height: 700px;
     }
